@@ -1,0 +1,36 @@
+{
+    "records": [
+        {
+            "problemDescription": "un problema caccoloso",
+            "solution_id": "5ff2014c9f3d05f8384e3877"
+        },
+        {
+            "problemDescription": "un problema struzio",
+            "solution_id": "5ff2014d9f3d05f8384e387a"
+        },
+        {
+            "problemDescription": "un problema frux",
+            "solution_id": "5ff20192f062efa995625617"
+        },
+        {
+            "problemDescription": "un problema sprenfix",
+            "solution_id": "5ff2014c9f3d05f8384e3877"
+        },
+        {
+            "problemDescription": "un problema truffolo",
+            "solution_id": "5ff2014d9f3d05f8384e387a"
+        },
+        {
+            "problemDescription": "un problema ceciano",
+            "solution_id": "5ff882357212cdd22e502efe"
+        },
+        {
+            "problemDescription": "un problema brutto",
+            "solution_id": "5ff882367212cdd22e502f01"
+        },
+        {
+            "problemDescription": "un problema zuzziano",
+            "solution_id": "5ff2014d9f3d05f8384e387a"
+        }
+    ]
+}

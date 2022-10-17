@@ -1,0 +1,23 @@
+{
+  "type": "object",
+  "properties": {
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "solution_id": {
+            "type": "string"
+          },
+          "problemDescription": {
+            "type": "string"
+          }
+        },
+        "required": ["solution_id", "problemDescription"]
+      },
+      "minItems": 0,
+      "uniqueItems": true
+    }
+  },
+  "required": ["records"]
+}

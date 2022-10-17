@@ -1,0 +1,33 @@
+{
+  "type": "object",
+  "properties": {
+    "maxProblemAge": {
+      "description": "Maximum age (in days) for solved problems to be eligible to ingestion",
+      "type": "number",
+      "minimum": 1
+    },
+    "minNumberOfRecords": {
+      "description": "Minimum acceptable number of ingestion problems. If not respected, it will be notified in report",
+      "type": "number",
+      "minimum": 1
+    },
+    "maxNumberOfRecords": {
+      "description": "Maximum number of ingestion problems",
+      "type": "number",
+      "minimum": 1
+    },
+    "bannedKeywords": {
+      "description": "List of keywords that must NOT be present in problem descriptions",
+      "type": "array",
+      "items": {"type": "string"},
+      "minItems": 0,
+      "uniqueItems": true
+    },
+    "ingestionProcedurePeriod": {
+      "description": "Period (in seconds) of execution of ingestion procedure",
+      "type": "number",
+      "minimum": 30
+    }
+  },
+  "required": ["maxProblemAge", "minNumberOfRecords", "maxNumberOfRecords", "bannedKeywords", "ingestionProcedurePeriod"]
+}

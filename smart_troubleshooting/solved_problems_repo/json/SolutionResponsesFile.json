@@ -1,0 +1,19 @@
+{
+    "responses": [
+        {
+            "requestID": 1,
+            "responseType": "OK",
+            "solutionDescription": "una soluzione bellissima"
+        },
+        {
+            "requestID": 2,
+            "responseType": "OK",
+            "solutionDescription": "una soluzione altrettanto brutta"
+        },
+        {
+            "requestID": 3,
+            "responseType": "OK",
+            "solutionDescription": "una soluzione ciaccia"
+        }
+    ]
+}

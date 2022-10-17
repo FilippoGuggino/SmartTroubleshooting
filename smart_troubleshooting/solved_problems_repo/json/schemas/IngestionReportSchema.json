@@ -1,0 +1,28 @@
+{
+  "type": "object",
+  "properties": {
+    "numberOfRecords": {
+      "description": "Number of records saved in output file",
+      "type": "number",
+      "minimum": 0
+    },
+    "lastIngestionTime": {
+      "description": "Time of the last execution of ingestion procedure",
+      "type": "string",
+      "format": "date-time"
+    },
+    "exitStatus": {
+      "description": "Exit status of the last ingestion procedure. May be either OK or ERROR",
+      "type": "string"
+    },
+    "errorMessage": {
+      "description": "Error message. Present only if exitStatus = ERROR",
+      "type": "string"
+    }
+  },
+  "required": [
+    "numberOfRecords",
+    "lastIngestionTime",
+    "exitStatus"
+  ]
+}

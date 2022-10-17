@@ -1,0 +1,7 @@
+{
+  "maxProblemAge": 365,
+  "minNumberOfRecords": 1,
+  "maxNumberOfRecords": 1000,
+  "bannedKeywords": [],
+  "ingestionProcedurePeriod": 30
+}

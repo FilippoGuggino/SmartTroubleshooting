@@ -1,0 +1,29 @@
+{
+  "type": "object",
+  "properties": {
+    "trainingPercent": {
+      "description": "Percentage of the records to be used to build the training set",
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "testPercent": {
+      "description": "Percentage of the records to be used to build the test set",
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "validationPercent": {
+      "description": "Percentage of the records to be used to build the validation set",
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "segregationPeriod": {
+      "description": "Period (in seconds) of execution of segregation procedure",
+      "type": "number",
+      "minimum": 5
+    }
+  },
+  "required": ["trainingPercent", "testPercent", "validationPercent", "segregationPeriod"]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "object",
+  "properties": {
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "problemDescription": {"type": "string"},
+          "solutionDescription": {"type": "string"},
+          "isSolutionManual": {"type": "boolean"},
+          "solutionIndex": {
+            "type": "number",
+            "minimum": 0
+          },
+          "totalPresentedSolutions": {
+            "type": "number",
+            "minimum": 0
+          }
+        },
+        "required": [
+          "problemDescription",
+          "solutionDescription",
+          "isSolutionManual",
+          "totalPresentedSolutions"
+        ]
+      },
+      "minItems": 0,
+      "uniqueItems": true
+    }
+  },
+  "required": ["records"]
+}

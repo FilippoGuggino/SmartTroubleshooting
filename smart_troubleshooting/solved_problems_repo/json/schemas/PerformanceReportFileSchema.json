@@ -1,0 +1,29 @@
+{
+  "type": "object",
+  "properties": {
+    "reports": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "isSolutionManual": {"type": "boolean"},
+          "solutionIndex": {
+            "type": "number",
+            "minimum": 0
+          },
+          "totalPresentedSolutions": {
+            "type": "number",
+            "minimum": 0
+          }
+        },
+        "required": [
+          "isSolutionManual",
+          "totalPresentedSolutions"
+        ]
+      },
+      "minItems": 0,
+      "uniqueItems": true
+    }
+  },
+  "required": ["reports"]
+}

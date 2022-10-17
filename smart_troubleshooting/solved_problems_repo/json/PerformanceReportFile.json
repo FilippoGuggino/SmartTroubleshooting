@@ -1,0 +1,18 @@
+{
+    "reports": [
+        {
+            "isSolutionManual": false,
+            "totalPresentedSolutions": 4,
+            "solutionIndex": 2
+        },
+        {
+            "isSolutionManual": true,
+            "totalPresentedSolutions": 2
+        },
+        {
+            "isSolutionManual": false,
+            "totalPresentedSolutions": 3,
+            "solutionIndex": 0
+        }
+    ]
+}
