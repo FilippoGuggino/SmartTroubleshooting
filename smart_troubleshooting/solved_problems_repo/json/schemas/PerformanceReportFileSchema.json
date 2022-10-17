@@ -9,7 +9,7 @@
           "isSolutionManual": {"type": "boolean"},
           "solutionIndex": {
             "type": "number",
-            "minimum": 0
+            "minimum": -1
           },
           "totalPresentedSolutions": {
             "type": "number",
@@ -21,8 +21,7 @@
           "totalPresentedSolutions"
         ]
       },
-      "minItems": 0,
-      "uniqueItems": true
+      "minItems": 0
     }
   },
   "required": ["reports"]

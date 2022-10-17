@@ -23,7 +23,32 @@
       "description": "Period (in seconds) of execution of segregation procedure",
       "type": "number",
       "minimum": 5
+    },
+    "output_json_directory": {
+      "description": "Directory path for json output",
+      "type": "string"
+    },
+    "output_csv_directory":  {
+      "description": "Directory path for json output",
+      "type": "string"
+    },
+    "input_directory":  {
+      "description": "Directory path for ingestion input",
+      "type": "string"
+    },
+    "json_schemas_directory":  {
+      "description": "Directory path for json schemas",
+      "type": "string"
     }
   },
-  "required": ["trainingPercent", "testPercent", "validationPercent", "segregationPeriod"]
+  "required": [
+    "trainingPercent",
+    "testPercent",
+    "validationPercent",
+    "segregationPeriod",
+    "output_json_directory",
+    "output_csv_directory",
+    "input_directory",
+    "json_schemas_directory"
+  ]
 }

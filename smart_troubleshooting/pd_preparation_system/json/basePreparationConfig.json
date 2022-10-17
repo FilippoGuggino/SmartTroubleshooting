@@ -1,0 +1,11 @@
+{
+    "toLowerCase": true,
+    "performLemmatization": true,
+    "performStemming": true,
+    "removeStopwords": true,
+    "removePunctuation": true,
+    "stopwords": [
+        "ciao",
+        "bella"
+    ]
+}

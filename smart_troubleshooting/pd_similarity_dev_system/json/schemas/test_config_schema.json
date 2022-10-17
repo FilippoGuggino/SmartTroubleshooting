@@ -1,0 +1,26 @@
+{
+  "$id": "test_config_schema.json",
+  "type": "object",
+  "allOf": [
+    {
+      "$ref": "common_schema.json#/definitions/generic_config"
+    },
+    {
+      "type": "object",
+      "properties": {
+        "test_set_path": {
+          "type": "string",
+          "format": "uri-reference"
+        },
+        "model_path": {
+          "type": "string",
+          "format": "uri-reference"
+        }
+      },
+      "required": [
+        "test_set_path",
+        "model_path"
+      ]
+    }
+  ]
+}

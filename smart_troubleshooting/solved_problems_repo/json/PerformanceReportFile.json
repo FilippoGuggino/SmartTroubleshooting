@@ -1,18 +1,69 @@
 {
     "reports": [
         {
-            "isSolutionManual": false,
-            "totalPresentedSolutions": 4,
-            "solutionIndex": 2
+            "isSolutionManual": true,
+            "totalPresentedSolutions": 1,
+            "solutionIndex": -1
         },
         {
             "isSolutionManual": true,
-            "totalPresentedSolutions": 2
+            "totalPresentedSolutions": 1,
+            "solutionIndex": -1
         },
         {
             "isSolutionManual": false,
-            "totalPresentedSolutions": 3,
-            "solutionIndex": 0
+            "totalPresentedSolutions": 1,
+            "solutionIndex": 1
+        },
+        {
+            "isSolutionManual": false,
+            "totalPresentedSolutions": 1,
+            "solutionIndex": 1
+        },
+        {
+            "isSolutionManual": false,
+            "totalPresentedSolutions": 1,
+            "solutionIndex": 1
+        },
+        {
+            "isSolutionManual": false,
+            "totalPresentedSolutions": 1,
+            "solutionIndex": 1
+        },
+        {
+            "isSolutionManual": false,
+            "totalPresentedSolutions": 1,
+            "solutionIndex": 1
+        },
+        {
+            "isSolutionManual": false,
+            "totalPresentedSolutions": 2,
+            "solutionIndex": 1
+        },
+        {
+            "isSolutionManual": false,
+            "totalPresentedSolutions": 2,
+            "solutionIndex": 2
+        },
+        {
+            "isSolutionManual": false,
+            "totalPresentedSolutions": 1,
+            "solutionIndex": 1
+        },
+        {
+            "isSolutionManual": false,
+            "totalPresentedSolutions": 2,
+            "solutionIndex": 2
+        },
+        {
+            "isSolutionManual": false,
+            "totalPresentedSolutions": 4,
+            "solutionIndex": 3
+        },
+        {
+            "isSolutionManual": true,
+            "totalPresentedSolutions": 4,
+            "solutionIndex": -1
         }
     ]
 }

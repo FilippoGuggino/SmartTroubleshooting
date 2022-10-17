@@ -1,0 +1,5 @@
+{
+  "pd_embeddings_path": "./pd_preparation_system/csv/FeatureVectorOutputFile.csv",
+  "test_set_path": "./segregation_system/csv/testSet.csv",
+  "model_path": "./pd_similarity_dev_system/models/output_model.joblib"
+}

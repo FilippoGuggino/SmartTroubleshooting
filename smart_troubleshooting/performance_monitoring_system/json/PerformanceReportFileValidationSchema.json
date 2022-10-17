@@ -1,0 +1,23 @@
+{
+    "type": "object",
+    "properties": {
+        "reports": {
+            "type": "array",
+            "items": {
+                "additionalProperties": false,
+                "properties": {
+                    "solutionIndex": {
+                        "type": "number"
+                    },
+                    "isSolutionManual": {
+                        "type": "boolean"
+                    },
+                    "totalPresentedSolutions": {
+                        "type": "number"
+                    }
+                },
+                "required": ["solutionIndex", "isSolutionManual","totalPresentedSolutions"]
+            }
+        }
+    }
+}

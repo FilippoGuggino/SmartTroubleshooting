@@ -1,0 +1,16 @@
+{
+  "pd_embeddings_path": "./pd_similarity_dev_system/tests/files/dummy_problem_embeddings.csv",
+  "training_set_path": "./pd_similarity_dev_system/tests/files/dummy_training_set.csv",
+  "validation_set_path": "./pd_similarity_dev_system/tests/files/dummy_validation_set.csv",
+  "output_model_path": "./pd_similarity_dev_system/tests/files/dummy_output_model.joblib",
+  "training_params": {
+    "max_iter": 10
+  },
+  "hyper_params": {
+    "hidden_layer_sizes": [
+      10,
+      11,
+      12
+    ]
+  }
+}

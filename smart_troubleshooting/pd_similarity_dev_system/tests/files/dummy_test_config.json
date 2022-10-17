@@ -1,0 +1,5 @@
+{
+  "pd_embeddings_path": "./pd_similarity_dev_system/tests/files/dummy_problem_embeddings.csv",
+  "test_set_path": "./pd_similarity_dev_system/tests/files/dummy_test_set.csv",
+  "model_path": "./pd_similarity_dev_system/tests/files/dummy_output_model.joblib"
+}

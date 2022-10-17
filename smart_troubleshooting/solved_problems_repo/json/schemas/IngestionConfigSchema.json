@@ -27,7 +27,45 @@
       "description": "Period (in seconds) of execution of ingestion procedure",
       "type": "number",
       "minimum": 30
+    },
+    "newProblemsHandlerPeriod": {
+      "description": "Period (in seconds) of execution of new problems handling task",
+      "type": "number",
+      "minimum": 5
+    },
+    "solutionRequestsHandlerPeriod": {
+      "description": "Period (in seconds) of execution of solution requests task",
+      "type": "number",
+      "minimum": 1
+    },
+    "mongodbURL": {
+      "description": "The URL of the mongoDB cluster connection",
+      "type": "string"
+    },
+    "input_directory": {
+      "description": "Directory path for input files",
+      "type": "string"
+    },
+    "output_directory": {
+      "description": "Directory path for output files",
+      "type": "string"
+    },
+    "json_schemas_directory": {
+      "description": "Directory path for json schemas files",
+      "type": "string"
     }
   },
-  "required": ["maxProblemAge", "minNumberOfRecords", "maxNumberOfRecords", "bannedKeywords", "ingestionProcedurePeriod"]
+  "required": [
+    "maxProblemAge",
+    "minNumberOfRecords",
+    "maxNumberOfRecords",
+    "bannedKeywords",
+    "ingestionProcedurePeriod",
+    "newProblemsHandlerPeriod",
+    "solutionRequestsHandlerPeriod",
+    "mongodbURL",
+    "input_directory",
+    "output_directory",
+    "json_schemas_directory"
+  ]
 }

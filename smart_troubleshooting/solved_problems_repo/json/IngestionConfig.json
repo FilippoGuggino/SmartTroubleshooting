@@ -1,7 +1,13 @@
 {
-  "maxProblemAge": 365,
-  "minNumberOfRecords": 1,
-  "maxNumberOfRecords": 1000,
-  "bannedKeywords": [],
-  "ingestionProcedurePeriod": 30
+    "maxProblemAge": 365,
+    "minNumberOfRecords": 1,
+    "maxNumberOfRecords": 305,
+    "bannedKeywords": [],
+    "ingestionProcedurePeriod": 30,
+    "newProblemsHandlerPeriod": 10,
+    "solutionRequestsHandlerPeriod": 3,
+    "mongodbURL": "mongodb+srv://solvedRepoAdmin:admin@solvedproblemrepocluste.o0pke.mongodb.net/test?retryWrites=true&w=majority",
+    "input_directory": "./technical_support_system/json/",
+    "output_directory": "./solved_problems_repo/json/",
+    "json_schemas_directory": "./solved_problems_repo/json/schemas/"
 }

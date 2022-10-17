@@ -1,0 +1,31 @@
+{
+  "pd_embeddings_path": "./pd_preparation_system/csv/FeatureVectorOutputFile.csv",
+  "training_set_path": "./segregation_system/csv/trainingSet.csv",
+  "validation_set_path": "./segregation_system/csv/validationSet.csv",
+  "output_model_path": "./pd_similarity_dev_system/models/output_model.joblib",
+  "training_params": {
+    "max_iter": {
+      "min": 500,
+      "max": 1000,
+      "step": 250
+    },
+    "learning_rate_init": {
+      "min": -3,
+      "max": 0,
+      "n": 4,
+      "scale": "log"
+    }
+  },
+  "hyper_params": {
+    "hidden_layer_sizes": {
+      "values": [
+        [10],
+        [20],
+        [50],
+        [50, 10],
+        [20, 10],
+        [10, 5]
+      ]
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "problem_mapping_path": "segregation_system/csv/ProblemMappingFile.csv",
+  "feature_vector_output_file": "pd_preparation_system/csv/FeatureVectorOutputFile.csv",
+  "preparation_report_file": "pd_preparation_system/json/preparationReport.json"
+}

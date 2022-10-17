@@ -1,0 +1,10 @@
+{
+  "neural_network_path": "pd_similarity_dev_system/models/output_model.joblib",
+  "similar_problem_req_path": "technical_support_system/json/SimilarProblemsReqFile.json",
+  "similar_problem_req_schema": "technical_support_system/json/schemas/SimilarProblemsReqSchema.json",
+  "candidate_similar_problem_path": "pd_preparation_system/csv/FeatureVectorOutputFile.csv",
+  "similar_problem_response_path": "troubleshooting_system/json/SimilarProblemsResponseFile.json",
+  "similar_problem_response_schema": "troubleshooting_system/json/schema/SimilarProblemsResponseSchema.json",
+  "maxnum_candidate_solution": 10,
+  "troubleshooting_report_file": "troubleshooting_system/json/troubleshootingReport.json"
+}

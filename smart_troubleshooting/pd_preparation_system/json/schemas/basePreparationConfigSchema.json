@@ -1,0 +1,35 @@
+{
+    "type": "object",
+    "properties": {
+        "toLowerCase": {
+            "type": "boolean"
+        },
+        "performLemmatization": {
+            "type": "boolean"
+        },
+        "performStemming": {
+            "type": "boolean"
+        },
+        "removeStopwords": {
+            "type": "boolean"
+        },
+        "removePunctuation": {
+            "type": "boolean"
+        },
+        "stopwords": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "uniqueItems": true
+        }
+    },
+    "required": [
+        "toLowerCase",
+        "performLemmatization",
+        "performStemming",
+        "removeStopwords",
+        "removePunctuation",
+        "stopwords"
+    ]
+}

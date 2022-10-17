@@ -1,6 +1,8 @@
 """
 This module contains only one class, providing an API to perform the segregation
 procedure on a list of problems, retrieved from an input file.
+
+Author: Leonardo Bacciottini, Federico Pacini
 """
 
 import math
@@ -20,18 +22,45 @@ class PDSegregationSystem:
     in segregationConfig.json
     """
 
-    # I/O files
-    __ingestion_records_file = "../solved_problems_repo/json/IngestionRecordsFile.json"
-    __segregation_config_file = "json/segregationConfig.json"
-    __test_set_file = "csv/testSet.csv"
-    __training_set_file = "csv/trainingSet.csv"
-    __validation_set_file = "csv/validationSet.csv"
-    __segregation_report_file = "json/segregationReport.json"
-    __problem_mapping_file = "csv/ProblemMappingFile.csv"
+    # configuration file
+    __segregation_config_file = "./segregation_system/json/segregationConfig.json"
 
-    # json schemas
-    __ingestion_records_schema = "json/schemas/IngestionRecordsFileSchema.json"
-    __segregation_config_schema = "json/schemas/segregationConfigSchema.json"
+    # configuration schema
+    __segregation_config_schema = "./segregation_system/json/schemas/segregationConfigSchema.json"
+
+    # I/O files declaration
+    __ingestion_records_file = None
+    __test_set_file = None
+    __training_set_file = None
+    __validation_set_file = None
+    __segregation_report_file = None
+    __problem_mapping_file = None
+    __ingestion_records_schema = None
+
+    def __init__(self):
+        # load file paths from configuration
+        self.__load_configuration()
+
+    def __set_io_files(self, configuration):
+        """
+        Set I/O files paths from a given configuration
+        :param configuration: the configuration dictionary
+        :return: None
+        """
+        if configuration is not None:
+            json_out_dir = configuration["output_json_directory"]
+            csv_out_dir = configuration["output_csv_directory"]
+
+            # I/O files
+            self.__ingestion_records_file = configuration["input_directory"] +\
+                "IngestionRecordsFile.json"
+            self.__test_set_file = csv_out_dir + "testSet.csv"
+            self.__training_set_file = csv_out_dir + "trainingSet.csv"
+            self.__validation_set_file = csv_out_dir + "validationSet.csv"
+            self.__segregation_report_file = json_out_dir + "segregationReport.json"
+            self.__problem_mapping_file = csv_out_dir + "ProblemMappingFile.csv"
+            self.__ingestion_records_schema = configuration["json_schemas_directory"] +\
+                "IngestionRecordsFileSchema.json"
 
     def __load_configuration(self):
         """
@@ -56,6 +85,10 @@ class PDSegregationSystem:
 
         if total_percent != 100:
             return None
+
+        # each time the configuration is loaded, update I/O files
+        self.__set_io_files(configuration)
+
         return configuration
 
     def __load_records(self):
@@ -72,16 +105,6 @@ class PDSegregationSystem:
         if not good_format:
             return None
         return records["records"]
-
-    @staticmethod
-    def __assign_problem_ids(problems):
-        """
-        Assign an integer identifier ("problem_id") field to each problem
-        :param problems: an array of json problem descriptors.
-        Thought to be "__load_records" result.
-        """
-        for i, problem in enumerate(problems, start=1):
-            problem["problem_id"] = i
 
     def __write_problem_id_description(self, problems):
         """
@@ -106,7 +129,6 @@ class PDSegregationSystem:
         training_records = self.__self_join(problems)
 
         # shuffle randomly the items
-        random.shuffle(training_records)
         random.shuffle(training_records)
 
         index_training = math.floor(len(training_records) * configuration["trainingPercent"] / 100)
@@ -170,7 +192,6 @@ class PDSegregationSystem:
             self.__write_report("ERROR", error_message="Records input file is bad formed")
             return
 
-        self.__assign_problem_ids(problems)  # now problems have also "problem_id" field
         self.__write_problem_id_description(problems)
 
         self.__write_sets(problems, configuration)

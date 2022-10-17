@@ -1,0 +1,24 @@
+{
+  "$id": "manual_train_config_schema.json",
+  "type": "object",
+  "allOf": [
+    {
+      "$ref": "common_schema.json#/definitions/generic_training_config"
+    },
+    {
+      "type": "object",
+      "properties": {
+        "hyper_parameters": {
+          "$ref": "common_schema.json#/definitions/mlpregressor_params"
+        },
+        "training_parameters": {
+          "$ref": "common_schema.json#/definitions/training_params"
+        }
+      },
+      "required": [
+        "hyper_params",
+        "training_params"
+      ]
+    }
+  ]
+}

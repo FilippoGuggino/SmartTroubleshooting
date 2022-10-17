@@ -1,5 +1,7 @@
 """
 This module contains the main function that will start the Segregation task service
+
+Author: Leonardo Bacciottini, Federico Pacini
 """
 from smart_troubleshooting.segregation_system.pd_segregation_system\
     import PDSegregationSystem

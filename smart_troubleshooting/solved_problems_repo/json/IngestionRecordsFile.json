@@ -1,36 +1,1529 @@
 {
     "records": [
         {
-            "problemDescription": "un problema caccoloso",
-            "solution_id": "5ff2014c9f3d05f8384e3877"
+            "problem_id": "600b02f3ff8ad7ade0f9d413",
+            "problemDescription": "problem logsaw machine zero cycle not running operator press orange push button alarm operator panel",
+            "solution_id": "600b02f2ff8ad7ade0f9d412"
         },
         {
-            "problemDescription": "un problema struzio",
-            "solution_id": "5ff2014d9f3d05f8384e387a"
+            "problem_id": "600b02f3ff8ad7ade0f9d414",
+            "problemDescription": "issue logsaw machine zero cycle not running operator press orange push button alarm operator panel",
+            "solution_id": "600b02f2ff8ad7ade0f9d412"
         },
         {
-            "problemDescription": "un problema frux",
-            "solution_id": "5ff20192f062efa995625617"
+            "problem_id": "600b02f3ff8ad7ade0f9d415",
+            "problemDescription": "trouble logsaw machine zero cycle not running operator press orange push button alarm operator panel",
+            "solution_id": "600b02f2ff8ad7ade0f9d412"
         },
         {
-            "problemDescription": "un problema sprenfix",
-            "solution_id": "5ff2014c9f3d05f8384e3877"
+            "problem_id": "600b02f3ff8ad7ade0f9d416",
+            "problemDescription": "complication logsaw machine zero cycle not running operator press orange push button alarm operator panel",
+            "solution_id": "600b02f2ff8ad7ade0f9d412"
         },
         {
-            "problemDescription": "un problema truffolo",
-            "solution_id": "5ff2014d9f3d05f8384e387a"
+            "problem_id": "600b02f3ff8ad7ade0f9d417",
+            "problemDescription": "problem logsaw machine zero cycle not running operator press orange push button notification operator panel",
+            "solution_id": "600b02f2ff8ad7ade0f9d412"
         },
         {
-            "problemDescription": "un problema ceciano",
-            "solution_id": "5ff882357212cdd22e502efe"
+            "problem_id": "600b02f3ff8ad7ade0f9d418",
+            "problemDescription": "problem logsaw machine zero cycle not running operator press orange push button alert operator panel",
+            "solution_id": "600b02f2ff8ad7ade0f9d412"
         },
         {
-            "problemDescription": "un problema brutto",
-            "solution_id": "5ff882367212cdd22e502f01"
+            "problem_id": "600b02f3ff8ad7ade0f9d41a",
+            "problemDescription": "requested 24h technical support due problem restart line embosser nip roll axis go alarm",
+            "solution_id": "600b02f3ff8ad7ade0f9d419"
         },
         {
-            "problemDescription": "un problema zuzziano",
-            "solution_id": "5ff2014d9f3d05f8384e387a"
+            "problem_id": "600b02f3ff8ad7ade0f9d41b",
+            "problemDescription": "required 24h technical support due problem restart line embosser nip roll axis go alarm",
+            "solution_id": "600b02f3ff8ad7ade0f9d419"
+        },
+        {
+            "problem_id": "600b02f4ff8ad7ade0f9d41c",
+            "problemDescription": "demanded 24h technical support due problem restart line embosser nip roll axis go alarm",
+            "solution_id": "600b02f3ff8ad7ade0f9d419"
+        },
+        {
+            "problem_id": "600b02f4ff8ad7ade0f9d41d",
+            "problemDescription": "asked 24h technical support due problem restart line embosser nip roll axis go alarm",
+            "solution_id": "600b02f3ff8ad7ade0f9d419"
+        },
+        {
+            "problem_id": "600b02f4ff8ad7ade0f9d41e",
+            "problemDescription": "requested 24h technical support because problem restart line embosser nip roll axis go alarm",
+            "solution_id": "600b02f3ff8ad7ade0f9d419"
+        },
+        {
+            "problem_id": "600b02f4ff8ad7ade0f9d41f",
+            "problemDescription": "requested 24h technical support attributable problem restart line embosser nip roll axis go alarm",
+            "solution_id": "600b02f3ff8ad7ade0f9d419"
+        },
+        {
+            "problem_id": "600b02f4ff8ad7ade0f9d420",
+            "problemDescription": "requested 24h technical support due issue restart line embosser nip roll axis go alarm",
+            "solution_id": "600b02f3ff8ad7ade0f9d419"
+        },
+        {
+            "problem_id": "600b02f4ff8ad7ade0f9d421",
+            "problemDescription": "requested 24h technical support due trouble restart line embosser nip roll axis go alarm",
+            "solution_id": "600b02f3ff8ad7ade0f9d419"
+        },
+        {
+            "problem_id": "600b02f4ff8ad7ade0f9d422",
+            "problemDescription": "requested 24h technical support due complication restart line embosser nip roll axis go alarm",
+            "solution_id": "600b02f3ff8ad7ade0f9d419"
+        },
+        {
+            "problem_id": "600b02f5ff8ad7ade0f9d423",
+            "problemDescription": "requested 24h technical support due problem start over line embosser nip roll axis go alarm",
+            "solution_id": "600b02f3ff8ad7ade0f9d419"
+        },
+        {
+            "problem_id": "600b02f5ff8ad7ade0f9d424",
+            "problemDescription": "requested 24h technical support due problem restore line embosser nip roll axis go alarm",
+            "solution_id": "600b02f3ff8ad7ade0f9d419"
+        },
+        {
+            "problem_id": "600b02f5ff8ad7ade0f9d425",
+            "problemDescription": "requested 24h technical support due problem reset line embosser nip roll axis go alarm",
+            "solution_id": "600b02f3ff8ad7ade0f9d419"
+        },
+        {
+            "problem_id": "600b02f5ff8ad7ade0f9d426",
+            "problemDescription": "requested 24h technical support due problem restart line embosser nip roll axis go notification",
+            "solution_id": "600b02f3ff8ad7ade0f9d419"
+        },
+        {
+            "problem_id": "600b02f5ff8ad7ade0f9d427",
+            "problemDescription": "requested 24h technical support due problem restart line embosser nip roll axis go alert",
+            "solution_id": "600b02f3ff8ad7ade0f9d419"
+        },
+        {
+            "problem_id": "600b02f5ff8ad7ade0f9d429",
+            "problemDescription": "receive call h24 service complaining problem plc cannot reset machine",
+            "solution_id": "600b02f5ff8ad7ade0f9d428"
+        },
+        {
+            "problem_id": "600b02f5ff8ad7ade0f9d42a",
+            "problemDescription": "get call h24 service complaining problem plc cannot reset machine",
+            "solution_id": "600b02f5ff8ad7ade0f9d428"
+        },
+        {
+            "problem_id": "600b02f6ff8ad7ade0f9d42b",
+            "problemDescription": "take in call h24 service complaining problem plc cannot reset machine",
+            "solution_id": "600b02f5ff8ad7ade0f9d428"
+        },
+        {
+            "problem_id": "600b02f6ff8ad7ade0f9d42c",
+            "problemDescription": "receive call h24 service lamenting problem plc cannot reset machine",
+            "solution_id": "600b02f5ff8ad7ade0f9d428"
+        },
+        {
+            "problem_id": "600b02f6ff8ad7ade0f9d42d",
+            "problemDescription": "receive call h24 service complaining issue plc cannot reset machine",
+            "solution_id": "600b02f5ff8ad7ade0f9d428"
+        },
+        {
+            "problem_id": "600b02f6ff8ad7ade0f9d42e",
+            "problemDescription": "receive call h24 service complaining trouble plc cannot reset machine",
+            "solution_id": "600b02f5ff8ad7ade0f9d428"
+        },
+        {
+            "problem_id": "600b02f6ff8ad7ade0f9d42f",
+            "problemDescription": "receive call h24 service complaining complication plc cannot reset machine",
+            "solution_id": "600b02f5ff8ad7ade0f9d428"
+        },
+        {
+            "problem_id": "600b02f6ff8ad7ade0f9d430",
+            "problemDescription": "receive call h24 service complaining problem programmable logic controller cannot reset machine",
+            "solution_id": "600b02f5ff8ad7ade0f9d428"
+        },
+        {
+            "problem_id": "600b02f6ff8ad7ade0f9d431",
+            "problemDescription": "receive call h24 service complaining problem logic controller cannot reset machine",
+            "solution_id": "600b02f5ff8ad7ade0f9d428"
+        },
+        {
+            "problem_id": "600b02f7ff8ad7ade0f9d433",
+            "problemDescription": "requested due accumulator continuous mode alarm",
+            "solution_id": "600b02f6ff8ad7ade0f9d432"
+        },
+        {
+            "problem_id": "600b02f7ff8ad7ade0f9d434",
+            "problemDescription": "required due accumulator continuous mode alarm",
+            "solution_id": "600b02f6ff8ad7ade0f9d432"
+        },
+        {
+            "problem_id": "600b02f7ff8ad7ade0f9d435",
+            "problemDescription": "demanded due accumulator continuous mode alarm",
+            "solution_id": "600b02f6ff8ad7ade0f9d432"
+        },
+        {
+            "problem_id": "600b02f7ff8ad7ade0f9d436",
+            "problemDescription": "asked due accumulator continuous mode alarm",
+            "solution_id": "600b02f6ff8ad7ade0f9d432"
+        },
+        {
+            "problem_id": "600b02f7ff8ad7ade0f9d437",
+            "problemDescription": "requested because accumulator continuous mode alarm",
+            "solution_id": "600b02f6ff8ad7ade0f9d432"
+        },
+        {
+            "problem_id": "600b02f7ff8ad7ade0f9d438",
+            "problemDescription": "requested attributable accumulator continuous mode alarm",
+            "solution_id": "600b02f6ff8ad7ade0f9d432"
+        },
+        {
+            "problem_id": "600b02f7ff8ad7ade0f9d439",
+            "problemDescription": "requested due accumulator continuous mode notification",
+            "solution_id": "600b02f6ff8ad7ade0f9d432"
+        },
+        {
+            "problem_id": "600b02f7ff8ad7ade0f9d43a",
+            "problemDescription": "requested due accumulator continuous mode alert",
+            "solution_id": "600b02f6ff8ad7ade0f9d432"
+        },
+        {
+            "problem_id": "600b02f8ff8ad7ade0f9d43c",
+            "problemDescription": "plc lost memory could not restart line paper tension not correct embosser rewinder",
+            "solution_id": "600b02f8ff8ad7ade0f9d43b"
+        },
+        {
+            "problem_id": "600b02f8ff8ad7ade0f9d43d",
+            "problemDescription": "programmable logic controller lost memory could not restart line paper tension not correct embosser rewinder",
+            "solution_id": "600b02f8ff8ad7ade0f9d43b"
+        },
+        {
+            "problem_id": "600b02f8ff8ad7ade0f9d43e",
+            "problemDescription": "logic controller lost memory could not restart line paper tension not correct embosser rewinder",
+            "solution_id": "600b02f8ff8ad7ade0f9d43b"
+        },
+        {
+            "problem_id": "600b02f8ff8ad7ade0f9d43f",
+            "problemDescription": "plc lost memory could not start over line paper tension not correct embosser rewinder",
+            "solution_id": "600b02f8ff8ad7ade0f9d43b"
+        },
+        {
+            "problem_id": "600b02f8ff8ad7ade0f9d440",
+            "problemDescription": "plc lost memory could not restore line paper tension not correct embosser rewinder",
+            "solution_id": "600b02f8ff8ad7ade0f9d43b"
+        },
+        {
+            "problem_id": "600b02f8ff8ad7ade0f9d441",
+            "problemDescription": "plc lost memory could not reset line paper tension not correct embosser rewinder",
+            "solution_id": "600b02f8ff8ad7ade0f9d43b"
+        },
+        {
+            "problem_id": "600b02f8ff8ad7ade0f9d443",
+            "problemDescription": "receive call complaining problem machine ready didnt start check understand cpu plc loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02f9ff8ad7ade0f9d444",
+            "problemDescription": "get call complaining problem machine ready didnt start check understand cpu plc loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02f9ff8ad7ade0f9d445",
+            "problemDescription": "take in call complaining problem machine ready didnt start check understand cpu plc loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02f9ff8ad7ade0f9d446",
+            "problemDescription": "receive call lamenting problem machine ready didnt start check understand cpu plc loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02f9ff8ad7ade0f9d447",
+            "problemDescription": "receive call complaining issue machine ready didnt start check understand cpu plc loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02f9ff8ad7ade0f9d448",
+            "problemDescription": "receive call complaining trouble machine ready didnt start check understand cpu plc loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02f9ff8ad7ade0f9d449",
+            "problemDescription": "receive call complaining complication machine ready didnt start check understand cpu plc loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02f9ff8ad7ade0f9d44a",
+            "problemDescription": "receive call complaining problem machine ready didnt launch check understand cpu plc loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02faff8ad7ade0f9d44b",
+            "problemDescription": "receive call complaining problem machine ready didnt activate check understand cpu plc loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02faff8ad7ade0f9d44c",
+            "problemDescription": "receive call complaining problem machine ready didnt turn on check understand cpu plc loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02faff8ad7ade0f9d44d",
+            "problemDescription": "receive call complaining problem machine ready didnt start control understand cpu plc loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02faff8ad7ade0f9d44e",
+            "problemDescription": "receive call complaining problem machine ready didnt start verify understand cpu plc loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02faff8ad7ade0f9d44f",
+            "problemDescription": "receive call complaining problem machine ready didnt start inspection understand cpu plc loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02faff8ad7ade0f9d450",
+            "problemDescription": "receive call complaining problem machine ready didnt start test understand cpu plc loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02fbff8ad7ade0f9d451",
+            "problemDescription": "receive call complaining problem machine ready didnt start research understand cpu plc loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02fbff8ad7ade0f9d452",
+            "problemDescription": "receive call complaining problem machine ready didnt start check understand processing unit plc loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02fbff8ad7ade0f9d453",
+            "problemDescription": "receive call complaining problem machine ready didnt start check understand central processing unit plc loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02fbff8ad7ade0f9d454",
+            "problemDescription": "receive call complaining problem machine ready didnt start check understand processor plc loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02fbff8ad7ade0f9d455",
+            "problemDescription": "receive call complaining problem machine ready didnt start check understand cpu programmable logic controller loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02fbff8ad7ade0f9d456",
+            "problemDescription": "receive call complaining problem machine ready didnt start check understand cpu logic controller loose program",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02fbff8ad7ade0f9d457",
+            "problemDescription": "receive call complaining problem machine ready didnt start check understand cpu plc loose software",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02fcff8ad7ade0f9d458",
+            "problemDescription": "receive call complaining problem machine ready didnt start check understand cpu plc loose application software",
+            "solution_id": "600b02f8ff8ad7ade0f9d442"
+        },
+        {
+            "problem_id": "600b02fcff8ad7ade0f9d45a",
+            "problemDescription": "call us complain problem log loader motor alarm panel",
+            "solution_id": "600b02fcff8ad7ade0f9d459"
+        },
+        {
+            "problem_id": "600b02fcff8ad7ade0f9d45b",
+            "problemDescription": "call us complain issue log loader motor alarm panel",
+            "solution_id": "600b02fcff8ad7ade0f9d459"
+        },
+        {
+            "problem_id": "600b02fcff8ad7ade0f9d45c",
+            "problemDescription": "call us complain trouble log loader motor alarm panel",
+            "solution_id": "600b02fcff8ad7ade0f9d459"
+        },
+        {
+            "problem_id": "600b02fcff8ad7ade0f9d45d",
+            "problemDescription": "call us complain complication log loader motor alarm panel",
+            "solution_id": "600b02fcff8ad7ade0f9d459"
+        },
+        {
+            "problem_id": "600b02fcff8ad7ade0f9d45e",
+            "problemDescription": "call us complain problem log loader engine alarm panel",
+            "solution_id": "600b02fcff8ad7ade0f9d459"
+        },
+        {
+            "problem_id": "600b02fcff8ad7ade0f9d45f",
+            "problemDescription": "call us complain problem log loader motor notification panel",
+            "solution_id": "600b02fcff8ad7ade0f9d459"
+        },
+        {
+            "problem_id": "600b02fcff8ad7ade0f9d460",
+            "problemDescription": "call us complain problem log loader motor alert panel",
+            "solution_id": "600b02fcff8ad7ade0f9d459"
+        },
+        {
+            "problem_id": "600b02fdff8ad7ade0f9d462",
+            "problemDescription": "log saw stop not possible restart machine",
+            "solution_id": "600b02fdff8ad7ade0f9d461"
+        },
+        {
+            "problem_id": "600b02fdff8ad7ade0f9d463",
+            "problemDescription": "log blade stop not possible restart machine",
+            "solution_id": "600b02fdff8ad7ade0f9d461"
+        },
+        {
+            "problem_id": "600b02fdff8ad7ade0f9d464",
+            "problemDescription": "log saw stop not possible start over machine",
+            "solution_id": "600b02fdff8ad7ade0f9d461"
+        },
+        {
+            "problem_id": "600b02fdff8ad7ade0f9d465",
+            "problemDescription": "log saw stop not possible restore machine",
+            "solution_id": "600b02fdff8ad7ade0f9d461"
+        },
+        {
+            "problem_id": "600b02fdff8ad7ade0f9d466",
+            "problemDescription": "log saw stop not possible reset machine",
+            "solution_id": "600b02fdff8ad7ade0f9d461"
+        },
+        {
+            "problem_id": "600b02fdff8ad7ade0f9d468",
+            "problemDescription": "requested 24h service due problem sincro break functionally",
+            "solution_id": "600b02fdff8ad7ade0f9d467"
+        },
+        {
+            "problem_id": "600b02fdff8ad7ade0f9d469",
+            "problemDescription": "required 24h service due problem sincro break functionally",
+            "solution_id": "600b02fdff8ad7ade0f9d467"
+        },
+        {
+            "problem_id": "600b02feff8ad7ade0f9d46a",
+            "problemDescription": "demanded 24h service due problem sincro break functionally",
+            "solution_id": "600b02fdff8ad7ade0f9d467"
+        },
+        {
+            "problem_id": "600b02feff8ad7ade0f9d46b",
+            "problemDescription": "asked 24h service due problem sincro break functionally",
+            "solution_id": "600b02fdff8ad7ade0f9d467"
+        },
+        {
+            "problem_id": "600b02feff8ad7ade0f9d46c",
+            "problemDescription": "requested 24h service because problem sincro break functionally",
+            "solution_id": "600b02fdff8ad7ade0f9d467"
+        },
+        {
+            "problem_id": "600b02feff8ad7ade0f9d46d",
+            "problemDescription": "requested 24h service attributable problem sincro break functionally",
+            "solution_id": "600b02fdff8ad7ade0f9d467"
+        },
+        {
+            "problem_id": "600b02feff8ad7ade0f9d46e",
+            "problemDescription": "requested 24h service due issue sincro break functionally",
+            "solution_id": "600b02fdff8ad7ade0f9d467"
+        },
+        {
+            "problem_id": "600b02feff8ad7ade0f9d46f",
+            "problemDescription": "requested 24h service due trouble sincro break functionally",
+            "solution_id": "600b02fdff8ad7ade0f9d467"
+        },
+        {
+            "problem_id": "600b02feff8ad7ade0f9d470",
+            "problemDescription": "requested 24h service due complication sincro break functionally",
+            "solution_id": "600b02fdff8ad7ade0f9d467"
+        },
+        {
+            "problem_id": "600b02ffff8ad7ade0f9d472",
+            "problemDescription": "requested 24h service due alarm clich\u00e3\u00a8 axis",
+            "solution_id": "600b02ffff8ad7ade0f9d471"
+        },
+        {
+            "problem_id": "600b02ffff8ad7ade0f9d473",
+            "problemDescription": "required 24h service due alarm clich\u00e3\u00a8 axis",
+            "solution_id": "600b02ffff8ad7ade0f9d471"
+        },
+        {
+            "problem_id": "600b02ffff8ad7ade0f9d474",
+            "problemDescription": "demanded 24h service due alarm clich\u00e3\u00a8 axis",
+            "solution_id": "600b02ffff8ad7ade0f9d471"
+        },
+        {
+            "problem_id": "600b02ffff8ad7ade0f9d475",
+            "problemDescription": "asked 24h service due alarm clich\u00e3\u00a8 axis",
+            "solution_id": "600b02ffff8ad7ade0f9d471"
+        },
+        {
+            "problem_id": "600b02ffff8ad7ade0f9d476",
+            "problemDescription": "requested 24h service because alarm clich\u00e3\u00a8 axis",
+            "solution_id": "600b02ffff8ad7ade0f9d471"
+        },
+        {
+            "problem_id": "600b02ffff8ad7ade0f9d477",
+            "problemDescription": "requested 24h service attributable alarm clich\u00e3\u00a8 axis",
+            "solution_id": "600b02ffff8ad7ade0f9d471"
+        },
+        {
+            "problem_id": "600b02ffff8ad7ade0f9d478",
+            "problemDescription": "requested 24h service due notification clich\u00e3\u00a8 axis",
+            "solution_id": "600b02ffff8ad7ade0f9d471"
+        },
+        {
+            "problem_id": "600b02ffff8ad7ade0f9d479",
+            "problemDescription": "requested 24h service due alert clich\u00e3\u00a8 axis",
+            "solution_id": "600b02ffff8ad7ade0f9d471"
+        },
+        {
+            "problem_id": "600b0300ff8ad7ade0f9d47b",
+            "problemDescription": "requested modification reduce lower limit cut length 220 mm 207 mm",
+            "solution_id": "600b0300ff8ad7ade0f9d47a"
+        },
+        {
+            "problem_id": "600b0300ff8ad7ade0f9d47c",
+            "problemDescription": "required modification reduce lower limit cut length 220 mm 207 mm",
+            "solution_id": "600b0300ff8ad7ade0f9d47a"
+        },
+        {
+            "problem_id": "600b0300ff8ad7ade0f9d47d",
+            "problemDescription": "demanded modification reduce lower limit cut length 220 mm 207 mm",
+            "solution_id": "600b0300ff8ad7ade0f9d47a"
+        },
+        {
+            "problem_id": "600b0300ff8ad7ade0f9d47e",
+            "problemDescription": "asked modification reduce lower limit cut length 220 mm 207 mm",
+            "solution_id": "600b0300ff8ad7ade0f9d47a"
+        },
+        {
+            "problem_id": "600b0300ff8ad7ade0f9d480",
+            "problemDescription": "requested assistance 24h service due embosser guard doors issue",
+            "solution_id": "600b0300ff8ad7ade0f9d47f"
+        },
+        {
+            "problem_id": "600b0300ff8ad7ade0f9d481",
+            "problemDescription": "required assistance 24h service due embosser guard doors issue",
+            "solution_id": "600b0300ff8ad7ade0f9d47f"
+        },
+        {
+            "problem_id": "600b0300ff8ad7ade0f9d482",
+            "problemDescription": "demanded assistance 24h service due embosser guard doors issue",
+            "solution_id": "600b0300ff8ad7ade0f9d47f"
+        },
+        {
+            "problem_id": "600b0301ff8ad7ade0f9d483",
+            "problemDescription": "asked assistance 24h service due embosser guard doors issue",
+            "solution_id": "600b0300ff8ad7ade0f9d47f"
+        },
+        {
+            "problem_id": "600b0301ff8ad7ade0f9d484",
+            "problemDescription": "requested assistance 24h service because embosser guard doors issue",
+            "solution_id": "600b0300ff8ad7ade0f9d47f"
+        },
+        {
+            "problem_id": "600b0301ff8ad7ade0f9d485",
+            "problemDescription": "requested assistance 24h service attributable embosser guard doors issue",
+            "solution_id": "600b0300ff8ad7ade0f9d47f"
+        },
+        {
+            "problem_id": "600b0301ff8ad7ade0f9d487",
+            "problemDescription": "receive call complaining problem anilox roll blocked",
+            "solution_id": "600b0301ff8ad7ade0f9d486"
+        },
+        {
+            "problem_id": "600b0301ff8ad7ade0f9d488",
+            "problemDescription": "get call complaining problem anilox roll blocked",
+            "solution_id": "600b0301ff8ad7ade0f9d486"
+        },
+        {
+            "problem_id": "600b0301ff8ad7ade0f9d489",
+            "problemDescription": "take in call complaining problem anilox roll blocked",
+            "solution_id": "600b0301ff8ad7ade0f9d486"
+        },
+        {
+            "problem_id": "600b0301ff8ad7ade0f9d48a",
+            "problemDescription": "receive call lamenting problem anilox roll blocked",
+            "solution_id": "600b0301ff8ad7ade0f9d486"
+        },
+        {
+            "problem_id": "600b0302ff8ad7ade0f9d48b",
+            "problemDescription": "receive call complaining issue anilox roll blocked",
+            "solution_id": "600b0301ff8ad7ade0f9d486"
+        },
+        {
+            "problem_id": "600b0302ff8ad7ade0f9d48c",
+            "problemDescription": "receive call complaining trouble anilox roll blocked",
+            "solution_id": "600b0301ff8ad7ade0f9d486"
+        },
+        {
+            "problem_id": "600b0302ff8ad7ade0f9d48d",
+            "problemDescription": "receive call complaining complication anilox roll blocked",
+            "solution_id": "600b0301ff8ad7ade0f9d486"
+        },
+        {
+            "problem_id": "600b0302ff8ad7ade0f9d48f",
+            "problemDescription": "requested technical assistance due problem core winder start issues",
+            "solution_id": "600b0302ff8ad7ade0f9d48e"
+        },
+        {
+            "problem_id": "600b0302ff8ad7ade0f9d490",
+            "problemDescription": "required technical assistance due problem core winder start issues",
+            "solution_id": "600b0302ff8ad7ade0f9d48e"
+        },
+        {
+            "problem_id": "600b0302ff8ad7ade0f9d491",
+            "problemDescription": "demanded technical assistance due problem core winder start issues",
+            "solution_id": "600b0302ff8ad7ade0f9d48e"
+        },
+        {
+            "problem_id": "600b0302ff8ad7ade0f9d492",
+            "problemDescription": "asked technical assistance due problem core winder start issues",
+            "solution_id": "600b0302ff8ad7ade0f9d48e"
+        },
+        {
+            "problem_id": "600b0302ff8ad7ade0f9d493",
+            "problemDescription": "requested technical assistance because problem core winder start issues",
+            "solution_id": "600b0302ff8ad7ade0f9d48e"
+        },
+        {
+            "problem_id": "600b0303ff8ad7ade0f9d494",
+            "problemDescription": "requested technical assistance attributable problem core winder start issues",
+            "solution_id": "600b0302ff8ad7ade0f9d48e"
+        },
+        {
+            "problem_id": "600b0303ff8ad7ade0f9d495",
+            "problemDescription": "requested technical assistance due issue core winder start issues",
+            "solution_id": "600b0302ff8ad7ade0f9d48e"
+        },
+        {
+            "problem_id": "600b0303ff8ad7ade0f9d496",
+            "problemDescription": "requested technical assistance due trouble core winder start issues",
+            "solution_id": "600b0302ff8ad7ade0f9d48e"
+        },
+        {
+            "problem_id": "600b0303ff8ad7ade0f9d497",
+            "problemDescription": "requested technical assistance due complication core winder start issues",
+            "solution_id": "600b0302ff8ad7ade0f9d48e"
+        },
+        {
+            "problem_id": "600b0303ff8ad7ade0f9d498",
+            "problemDescription": "requested technical assistance due problem core winder launch issues",
+            "solution_id": "600b0302ff8ad7ade0f9d48e"
+        },
+        {
+            "problem_id": "600b0303ff8ad7ade0f9d499",
+            "problemDescription": "requested technical assistance due problem core winder activate issues",
+            "solution_id": "600b0302ff8ad7ade0f9d48e"
+        },
+        {
+            "problem_id": "600b0303ff8ad7ade0f9d49a",
+            "problemDescription": "requested technical assistance due problem core winder turn on issues",
+            "solution_id": "600b0302ff8ad7ade0f9d48e"
+        },
+        {
+            "problem_id": "600b0304ff8ad7ade0f9d49c",
+            "problemDescription": "requested due problem speed variation main drive rewinder alarm",
+            "solution_id": "600b0303ff8ad7ade0f9d49b"
+        },
+        {
+            "problem_id": "600b0304ff8ad7ade0f9d49d",
+            "problemDescription": "required due problem speed variation main drive rewinder alarm",
+            "solution_id": "600b0303ff8ad7ade0f9d49b"
+        },
+        {
+            "problem_id": "600b0304ff8ad7ade0f9d49e",
+            "problemDescription": "demanded due problem speed variation main drive rewinder alarm",
+            "solution_id": "600b0303ff8ad7ade0f9d49b"
+        },
+        {
+            "problem_id": "600b0304ff8ad7ade0f9d49f",
+            "problemDescription": "asked due problem speed variation main drive rewinder alarm",
+            "solution_id": "600b0303ff8ad7ade0f9d49b"
+        },
+        {
+            "problem_id": "600b0304ff8ad7ade0f9d4a0",
+            "problemDescription": "requested because problem speed variation main drive rewinder alarm",
+            "solution_id": "600b0303ff8ad7ade0f9d49b"
+        },
+        {
+            "problem_id": "600b0304ff8ad7ade0f9d4a1",
+            "problemDescription": "requested attributable problem speed variation main drive rewinder alarm",
+            "solution_id": "600b0303ff8ad7ade0f9d49b"
+        },
+        {
+            "problem_id": "600b0304ff8ad7ade0f9d4a2",
+            "problemDescription": "requested due issue speed variation main drive rewinder alarm",
+            "solution_id": "600b0303ff8ad7ade0f9d49b"
+        },
+        {
+            "problem_id": "600b0304ff8ad7ade0f9d4a3",
+            "problemDescription": "requested due trouble speed variation main drive rewinder alarm",
+            "solution_id": "600b0303ff8ad7ade0f9d49b"
+        },
+        {
+            "problem_id": "600b0305ff8ad7ade0f9d4a4",
+            "problemDescription": "requested due complication speed variation main drive rewinder alarm",
+            "solution_id": "600b0303ff8ad7ade0f9d49b"
+        },
+        {
+            "problem_id": "600b0305ff8ad7ade0f9d4a5",
+            "problemDescription": "requested due problem velocity variation main drive rewinder alarm",
+            "solution_id": "600b0303ff8ad7ade0f9d49b"
+        },
+        {
+            "problem_id": "600b0305ff8ad7ade0f9d4a6",
+            "problemDescription": "requested due problem acceleration variation main drive rewinder alarm",
+            "solution_id": "600b0303ff8ad7ade0f9d49b"
+        },
+        {
+            "problem_id": "600b0305ff8ad7ade0f9d4a7",
+            "problemDescription": "requested due problem speed variation main drive component rewinder alarm",
+            "solution_id": "600b0303ff8ad7ade0f9d49b"
+        },
+        {
+            "problem_id": "600b0305ff8ad7ade0f9d4a8",
+            "problemDescription": "requested due problem speed variation main drive part rewinder alarm",
+            "solution_id": "600b0303ff8ad7ade0f9d49b"
+        },
+        {
+            "problem_id": "600b0305ff8ad7ade0f9d4a9",
+            "problemDescription": "requested due problem speed variation main drive rewinder notification",
+            "solution_id": "600b0303ff8ad7ade0f9d49b"
+        },
+        {
+            "problem_id": "600b0305ff8ad7ade0f9d4aa",
+            "problemDescription": "requested due problem speed variation main drive rewinder alert",
+            "solution_id": "600b0303ff8ad7ade0f9d49b"
+        },
+        {
+            "problem_id": "600b0306ff8ad7ade0f9d4ac",
+            "problemDescription": "received call complaining problem simotion tail sealer cant connect",
+            "solution_id": "600b0306ff8ad7ade0f9d4ab"
+        },
+        {
+            "problem_id": "600b0306ff8ad7ade0f9d4ad",
+            "problemDescription": "received call lamenting problem simotion tail sealer cant connect",
+            "solution_id": "600b0306ff8ad7ade0f9d4ab"
+        },
+        {
+            "problem_id": "600b0306ff8ad7ade0f9d4ae",
+            "problemDescription": "received call complaining issue simotion tail sealer cant connect",
+            "solution_id": "600b0306ff8ad7ade0f9d4ab"
+        },
+        {
+            "problem_id": "600b0306ff8ad7ade0f9d4af",
+            "problemDescription": "received call complaining trouble simotion tail sealer cant connect",
+            "solution_id": "600b0306ff8ad7ade0f9d4ab"
+        },
+        {
+            "problem_id": "600b0306ff8ad7ade0f9d4b0",
+            "problemDescription": "received call complaining complication simotion tail sealer cant connect",
+            "solution_id": "600b0306ff8ad7ade0f9d4ab"
+        },
+        {
+            "problem_id": "600b0306ff8ad7ade0f9d4b1",
+            "problemDescription": "received call complaining problem simotion tail sealer cant make a connection",
+            "solution_id": "600b0306ff8ad7ade0f9d4ab"
+        },
+        {
+            "problem_id": "600b0306ff8ad7ade0f9d4b2",
+            "problemDescription": "received call complaining problem simotion tail sealer cant establish connection",
+            "solution_id": "600b0306ff8ad7ade0f9d4ab"
+        },
+        {
+            "problem_id": "600b0306ff8ad7ade0f9d4b4",
+            "problemDescription": "robox problem sincro alarm number 146 checked robox card encoder motor cable",
+            "solution_id": "600b0306ff8ad7ade0f9d4b3"
+        },
+        {
+            "problem_id": "600b0307ff8ad7ade0f9d4b5",
+            "problemDescription": "robox issue sincro alarm number 146 checked robox card encoder motor cable",
+            "solution_id": "600b0306ff8ad7ade0f9d4b3"
+        },
+        {
+            "problem_id": "600b0307ff8ad7ade0f9d4b6",
+            "problemDescription": "robox trouble sincro alarm number 146 checked robox card encoder motor cable",
+            "solution_id": "600b0306ff8ad7ade0f9d4b3"
+        },
+        {
+            "problem_id": "600b0307ff8ad7ade0f9d4b7",
+            "problemDescription": "robox complication sincro alarm number 146 checked robox card encoder motor cable",
+            "solution_id": "600b0306ff8ad7ade0f9d4b3"
+        },
+        {
+            "problem_id": "600b0307ff8ad7ade0f9d4b8",
+            "problemDescription": "robox problem sincro notification number 146 checked robox card encoder motor cable",
+            "solution_id": "600b0306ff8ad7ade0f9d4b3"
+        },
+        {
+            "problem_id": "600b0307ff8ad7ade0f9d4b9",
+            "problemDescription": "robox problem sincro alert number 146 checked robox card encoder motor cable",
+            "solution_id": "600b0306ff8ad7ade0f9d4b3"
+        },
+        {
+            "problem_id": "600b0307ff8ad7ade0f9d4ba",
+            "problemDescription": "robox problem sincro alarm number 146 checked robox card encoder engine cable",
+            "solution_id": "600b0306ff8ad7ade0f9d4b3"
+        },
+        {
+            "problem_id": "600b0307ff8ad7ade0f9d4bc",
+            "problemDescription": "not possible reset machine robox missing power watch dog doesnt give output 24 vdc robox changed nearly everything",
+            "solution_id": "600b0307ff8ad7ade0f9d4bb"
+        },
+        {
+            "problem_id": "600b0308ff8ad7ade0f9d4bd",
+            "problemDescription": "not possible reset machine robox missing energy watch dog doesnt give output 24 vdc robox changed nearly everything",
+            "solution_id": "600b0307ff8ad7ade0f9d4bb"
+        },
+        {
+            "problem_id": "600b0308ff8ad7ade0f9d4bf",
+            "problemDescription": "core bin doesnt load core",
+            "solution_id": "600b0308ff8ad7ade0f9d4be"
+        },
+        {
+            "problem_id": "600b0308ff8ad7ade0f9d4c1",
+            "problemDescription": "requested 24h assistance due conveyor solid plus motor alarm",
+            "solution_id": "600b0308ff8ad7ade0f9d4c0"
+        },
+        {
+            "problem_id": "600b0308ff8ad7ade0f9d4c2",
+            "problemDescription": "required 24h assistance due conveyor solid plus motor alarm",
+            "solution_id": "600b0308ff8ad7ade0f9d4c0"
+        },
+        {
+            "problem_id": "600b0308ff8ad7ade0f9d4c3",
+            "problemDescription": "demanded 24h assistance due conveyor solid plus motor alarm",
+            "solution_id": "600b0308ff8ad7ade0f9d4c0"
+        },
+        {
+            "problem_id": "600b0308ff8ad7ade0f9d4c4",
+            "problemDescription": "asked 24h assistance due conveyor solid plus motor alarm",
+            "solution_id": "600b0308ff8ad7ade0f9d4c0"
+        },
+        {
+            "problem_id": "600b0308ff8ad7ade0f9d4c5",
+            "problemDescription": "requested 24h assistance because conveyor solid plus motor alarm",
+            "solution_id": "600b0308ff8ad7ade0f9d4c0"
+        },
+        {
+            "problem_id": "600b0309ff8ad7ade0f9d4c6",
+            "problemDescription": "requested 24h assistance attributable conveyor solid plus motor alarm",
+            "solution_id": "600b0308ff8ad7ade0f9d4c0"
+        },
+        {
+            "problem_id": "600b0309ff8ad7ade0f9d4c7",
+            "problemDescription": "requested 24h assistance due conveyor solid plus engine alarm",
+            "solution_id": "600b0308ff8ad7ade0f9d4c0"
+        },
+        {
+            "problem_id": "600b0309ff8ad7ade0f9d4c8",
+            "problemDescription": "requested 24h assistance due conveyor solid plus motor notification",
+            "solution_id": "600b0308ff8ad7ade0f9d4c0"
+        },
+        {
+            "problem_id": "600b0309ff8ad7ade0f9d4c9",
+            "problemDescription": "requested 24h assistance due conveyor solid plus motor alert",
+            "solution_id": "600b0308ff8ad7ade0f9d4c0"
+        },
+        {
+            "problem_id": "600b0309ff8ad7ade0f9d4cb",
+            "problemDescription": "call us download program cpu copy program laptop technician not ok",
+            "solution_id": "600b0309ff8ad7ade0f9d4ca"
+        },
+        {
+            "problem_id": "600b0309ff8ad7ade0f9d4cc",
+            "problemDescription": "call us download software cpu copy software laptop technician not ok",
+            "solution_id": "600b0309ff8ad7ade0f9d4ca"
+        },
+        {
+            "problem_id": "600b0309ff8ad7ade0f9d4cd",
+            "problemDescription": "call us download application software cpu copy application software laptop technician not ok",
+            "solution_id": "600b0309ff8ad7ade0f9d4ca"
+        },
+        {
+            "problem_id": "600b030aff8ad7ade0f9d4ce",
+            "problemDescription": "call us download program processing unit copy program laptop technician not ok",
+            "solution_id": "600b0309ff8ad7ade0f9d4ca"
+        },
+        {
+            "problem_id": "600b030aff8ad7ade0f9d4cf",
+            "problemDescription": "call us download program central processing unit copy program laptop technician not ok",
+            "solution_id": "600b0309ff8ad7ade0f9d4ca"
+        },
+        {
+            "problem_id": "600b030aff8ad7ade0f9d4d0",
+            "problemDescription": "call us download program processor copy program laptop technician not ok",
+            "solution_id": "600b0309ff8ad7ade0f9d4ca"
+        },
+        {
+            "problem_id": "600b030aff8ad7ade0f9d4d2",
+            "problemDescription": "due ruber rool servovalve axis fault",
+            "solution_id": "600b030aff8ad7ade0f9d4d1"
+        },
+        {
+            "problem_id": "600b030aff8ad7ade0f9d4d3",
+            "problemDescription": "because ruber rool servovalve axis fault",
+            "solution_id": "600b030aff8ad7ade0f9d4d1"
+        },
+        {
+            "problem_id": "600b030aff8ad7ade0f9d4d4",
+            "problemDescription": "attributable ruber rool servovalve axis fault",
+            "solution_id": "600b030aff8ad7ade0f9d4d1"
+        },
+        {
+            "problem_id": "600b030aff8ad7ade0f9d4d5",
+            "problemDescription": "due ruber rool servovalve axis defect",
+            "solution_id": "600b030aff8ad7ade0f9d4d1"
+        },
+        {
+            "problem_id": "600b030bff8ad7ade0f9d4d6",
+            "problemDescription": "due ruber rool servovalve axis error",
+            "solution_id": "600b030aff8ad7ade0f9d4d1"
+        },
+        {
+            "problem_id": "600b030bff8ad7ade0f9d4d7",
+            "problemDescription": "due ruber rool servovalve axis failing",
+            "solution_id": "600b030aff8ad7ade0f9d4d1"
+        },
+        {
+            "problem_id": "600b030bff8ad7ade0f9d4d8",
+            "problemDescription": "due ruber rool servovalve axis flaw",
+            "solution_id": "600b030aff8ad7ade0f9d4d1"
+        },
+        {
+            "problem_id": "600b030bff8ad7ade0f9d4da",
+            "problemDescription": "requested 24h assistance due alarm plc line",
+            "solution_id": "600b030bff8ad7ade0f9d4d9"
+        },
+        {
+            "problem_id": "600b030bff8ad7ade0f9d4db",
+            "problemDescription": "required 24h assistance due alarm plc line",
+            "solution_id": "600b030bff8ad7ade0f9d4d9"
+        },
+        {
+            "problem_id": "600b030bff8ad7ade0f9d4dc",
+            "problemDescription": "demanded 24h assistance due alarm plc line",
+            "solution_id": "600b030bff8ad7ade0f9d4d9"
+        },
+        {
+            "problem_id": "600b030bff8ad7ade0f9d4dd",
+            "problemDescription": "asked 24h assistance due alarm plc line",
+            "solution_id": "600b030bff8ad7ade0f9d4d9"
+        },
+        {
+            "problem_id": "600b030cff8ad7ade0f9d4de",
+            "problemDescription": "requested 24h assistance because alarm plc line",
+            "solution_id": "600b030bff8ad7ade0f9d4d9"
+        },
+        {
+            "problem_id": "600b030cff8ad7ade0f9d4df",
+            "problemDescription": "requested 24h assistance attributable alarm plc line",
+            "solution_id": "600b030bff8ad7ade0f9d4d9"
+        },
+        {
+            "problem_id": "600b030cff8ad7ade0f9d4e0",
+            "problemDescription": "requested 24h assistance due notification plc line",
+            "solution_id": "600b030bff8ad7ade0f9d4d9"
+        },
+        {
+            "problem_id": "600b030cff8ad7ade0f9d4e1",
+            "problemDescription": "requested 24h assistance due alert plc line",
+            "solution_id": "600b030bff8ad7ade0f9d4d9"
+        },
+        {
+            "problem_id": "600b030cff8ad7ade0f9d4e2",
+            "problemDescription": "requested 24h assistance due alarm programmable logic controller line",
+            "solution_id": "600b030bff8ad7ade0f9d4d9"
+        },
+        {
+            "problem_id": "600b030cff8ad7ade0f9d4e3",
+            "problemDescription": "requested 24h assistance due alarm logic controller line",
+            "solution_id": "600b030bff8ad7ade0f9d4d9"
+        },
+        {
+            "problem_id": "600b030cff8ad7ade0f9d4e5",
+            "problemDescription": "client contacted service oncall h24 complaining loss program plc line due battery",
+            "solution_id": "600b030cff8ad7ade0f9d4e4"
+        },
+        {
+            "problem_id": "600b030cff8ad7ade0f9d4e6",
+            "problemDescription": "client contacted service oncall h24 lamenting loss program plc line due battery",
+            "solution_id": "600b030cff8ad7ade0f9d4e4"
+        },
+        {
+            "problem_id": "600b030dff8ad7ade0f9d4e7",
+            "problemDescription": "client contacted service oncall h24 complaining loss software plc line due battery",
+            "solution_id": "600b030cff8ad7ade0f9d4e4"
+        },
+        {
+            "problem_id": "600b030dff8ad7ade0f9d4e8",
+            "problemDescription": "client contacted service oncall h24 complaining loss application software plc line due battery",
+            "solution_id": "600b030cff8ad7ade0f9d4e4"
+        },
+        {
+            "problem_id": "600b030dff8ad7ade0f9d4e9",
+            "problemDescription": "client contacted service oncall h24 complaining loss program programmable logic controller line due battery",
+            "solution_id": "600b030cff8ad7ade0f9d4e4"
+        },
+        {
+            "problem_id": "600b030dff8ad7ade0f9d4ea",
+            "problemDescription": "client contacted service oncall h24 complaining loss program logic controller line due battery",
+            "solution_id": "600b030cff8ad7ade0f9d4e4"
+        },
+        {
+            "problem_id": "600b030dff8ad7ade0f9d4eb",
+            "problemDescription": "client contacted service oncall h24 complaining loss program plc line because battery",
+            "solution_id": "600b030cff8ad7ade0f9d4e4"
+        },
+        {
+            "problem_id": "600b030dff8ad7ade0f9d4ec",
+            "problemDescription": "client contacted service oncall h24 complaining loss program plc line attributable battery",
+            "solution_id": "600b030cff8ad7ade0f9d4e4"
+        },
+        {
+            "problem_id": "600b030dff8ad7ade0f9d4ee",
+            "problemDescription": "requested 24h machine could not reset hmi shows many alarms",
+            "solution_id": "600b030dff8ad7ade0f9d4ed"
+        },
+        {
+            "problem_id": "600b030eff8ad7ade0f9d4ef",
+            "problemDescription": "required 24h machine could not reset hmi shows many alarms",
+            "solution_id": "600b030dff8ad7ade0f9d4ed"
+        },
+        {
+            "problem_id": "600b030eff8ad7ade0f9d4f0",
+            "problemDescription": "demanded 24h machine could not reset hmi shows many alarms",
+            "solution_id": "600b030dff8ad7ade0f9d4ed"
+        },
+        {
+            "problem_id": "600b030eff8ad7ade0f9d4f1",
+            "problemDescription": "asked 24h machine could not reset hmi shows many alarms",
+            "solution_id": "600b030dff8ad7ade0f9d4ed"
+        },
+        {
+            "problem_id": "600b030eff8ad7ade0f9d4f3",
+            "problemDescription": "requested due problem printer",
+            "solution_id": "600b030eff8ad7ade0f9d4f2"
+        },
+        {
+            "problem_id": "600b030eff8ad7ade0f9d4f4",
+            "problemDescription": "required due problem printer",
+            "solution_id": "600b030eff8ad7ade0f9d4f2"
+        },
+        {
+            "problem_id": "600b030fff8ad7ade0f9d4f5",
+            "problemDescription": "demanded due problem printer",
+            "solution_id": "600b030eff8ad7ade0f9d4f2"
+        },
+        {
+            "problem_id": "600b030fff8ad7ade0f9d4f6",
+            "problemDescription": "asked due problem printer",
+            "solution_id": "600b030eff8ad7ade0f9d4f2"
+        },
+        {
+            "problem_id": "600b030fff8ad7ade0f9d4f7",
+            "problemDescription": "requested because problem printer",
+            "solution_id": "600b030eff8ad7ade0f9d4f2"
+        },
+        {
+            "problem_id": "600b030fff8ad7ade0f9d4f8",
+            "problemDescription": "requested attributable problem printer",
+            "solution_id": "600b030eff8ad7ade0f9d4f2"
+        },
+        {
+            "problem_id": "600b030fff8ad7ade0f9d4f9",
+            "problemDescription": "requested due issue printer",
+            "solution_id": "600b030eff8ad7ade0f9d4f2"
+        },
+        {
+            "problem_id": "600b030fff8ad7ade0f9d4fa",
+            "problemDescription": "requested due trouble printer",
+            "solution_id": "600b030eff8ad7ade0f9d4f2"
+        },
+        {
+            "problem_id": "600b030fff8ad7ade0f9d4fb",
+            "problemDescription": "requested due complication printer",
+            "solution_id": "600b030eff8ad7ade0f9d4f2"
+        },
+        {
+            "problem_id": "600b030fff8ad7ade0f9d4fd",
+            "problemDescription": "problem red light profibus cpu embosser",
+            "solution_id": "600b030fff8ad7ade0f9d4fc"
+        },
+        {
+            "problem_id": "600b0310ff8ad7ade0f9d4fe",
+            "problemDescription": "issue red light profibus cpu embosser",
+            "solution_id": "600b030fff8ad7ade0f9d4fc"
+        },
+        {
+            "problem_id": "600b0310ff8ad7ade0f9d4ff",
+            "problemDescription": "trouble red light profibus cpu embosser",
+            "solution_id": "600b030fff8ad7ade0f9d4fc"
+        },
+        {
+            "problem_id": "600b0310ff8ad7ade0f9d500",
+            "problemDescription": "complication red light profibus cpu embosser",
+            "solution_id": "600b030fff8ad7ade0f9d4fc"
+        },
+        {
+            "problem_id": "600b0310ff8ad7ade0f9d501",
+            "problemDescription": "problem red light profibus processing unit embosser",
+            "solution_id": "600b030fff8ad7ade0f9d4fc"
+        },
+        {
+            "problem_id": "600b0310ff8ad7ade0f9d502",
+            "problemDescription": "problem red light profibus central processing unit embosser",
+            "solution_id": "600b030fff8ad7ade0f9d4fc"
+        },
+        {
+            "problem_id": "600b0310ff8ad7ade0f9d503",
+            "problemDescription": "problem red light profibus processor embosser",
+            "solution_id": "600b030fff8ad7ade0f9d4fc"
+        },
+        {
+            "problem_id": "600b0310ff8ad7ade0f9d505",
+            "problemDescription": "requested due loss perforation length limit modification",
+            "solution_id": "600b0310ff8ad7ade0f9d504"
+        },
+        {
+            "problem_id": "600b0310ff8ad7ade0f9d506",
+            "problemDescription": "required due loss perforation length limit modification",
+            "solution_id": "600b0310ff8ad7ade0f9d504"
+        },
+        {
+            "problem_id": "600b0311ff8ad7ade0f9d507",
+            "problemDescription": "demanded due loss perforation length limit modification",
+            "solution_id": "600b0310ff8ad7ade0f9d504"
+        },
+        {
+            "problem_id": "600b0311ff8ad7ade0f9d508",
+            "problemDescription": "asked due loss perforation length limit modification",
+            "solution_id": "600b0310ff8ad7ade0f9d504"
+        },
+        {
+            "problem_id": "600b0311ff8ad7ade0f9d509",
+            "problemDescription": "requested because loss perforation length limit modification",
+            "solution_id": "600b0310ff8ad7ade0f9d504"
+        },
+        {
+            "problem_id": "600b0311ff8ad7ade0f9d50a",
+            "problemDescription": "requested attributable loss perforation length limit modification",
+            "solution_id": "600b0310ff8ad7ade0f9d504"
+        },
+        {
+            "problem_id": "600b0311ff8ad7ade0f9d50c",
+            "problemDescription": "problem hmi doors not possible reset",
+            "solution_id": "600b0311ff8ad7ade0f9d50b"
+        },
+        {
+            "problem_id": "600b0311ff8ad7ade0f9d50d",
+            "problemDescription": "issue hmi doors not possible reset",
+            "solution_id": "600b0311ff8ad7ade0f9d50b"
+        },
+        {
+            "problem_id": "600b0311ff8ad7ade0f9d50e",
+            "problemDescription": "trouble hmi doors not possible reset",
+            "solution_id": "600b0311ff8ad7ade0f9d50b"
+        },
+        {
+            "problem_id": "600b0312ff8ad7ade0f9d50f",
+            "problemDescription": "complication hmi doors not possible reset",
+            "solution_id": "600b0311ff8ad7ade0f9d50b"
+        },
+        {
+            "problem_id": "600b0312ff8ad7ade0f9d511",
+            "problemDescription": "receive call 24h service problem speed unwinder spped low",
+            "solution_id": "600b0312ff8ad7ade0f9d510"
+        },
+        {
+            "problem_id": "600b0312ff8ad7ade0f9d512",
+            "problemDescription": "get call 24h service problem speed unwinder spped low",
+            "solution_id": "600b0312ff8ad7ade0f9d510"
+        },
+        {
+            "problem_id": "600b0312ff8ad7ade0f9d513",
+            "problemDescription": "take in call 24h service problem speed unwinder spped low",
+            "solution_id": "600b0312ff8ad7ade0f9d510"
+        },
+        {
+            "problem_id": "600b0312ff8ad7ade0f9d514",
+            "problemDescription": "receive call 24h service issue speed unwinder spped low",
+            "solution_id": "600b0312ff8ad7ade0f9d510"
+        },
+        {
+            "problem_id": "600b0312ff8ad7ade0f9d515",
+            "problemDescription": "receive call 24h service trouble speed unwinder spped low",
+            "solution_id": "600b0312ff8ad7ade0f9d510"
+        },
+        {
+            "problem_id": "600b0312ff8ad7ade0f9d516",
+            "problemDescription": "receive call 24h service complication speed unwinder spped low",
+            "solution_id": "600b0312ff8ad7ade0f9d510"
+        },
+        {
+            "problem_id": "600b0313ff8ad7ade0f9d517",
+            "problemDescription": "receive call 24h service problem velocity unwinder spped low",
+            "solution_id": "600b0312ff8ad7ade0f9d510"
+        },
+        {
+            "problem_id": "600b0313ff8ad7ade0f9d518",
+            "problemDescription": "receive call 24h service problem acceleration unwinder spped low",
+            "solution_id": "600b0312ff8ad7ade0f9d510"
+        },
+        {
+            "problem_id": "600b0313ff8ad7ade0f9d51a",
+            "problemDescription": "requested 24h support due problem zero cycle phase",
+            "solution_id": "600b0313ff8ad7ade0f9d519"
+        },
+        {
+            "problem_id": "600b0313ff8ad7ade0f9d51c",
+            "problemDescription": "required 24h support due problem zero cycle phase",
+            "solution_id": "600b0313ff8ad7ade0f9d51b"
+        },
+        {
+            "problem_id": "600b0313ff8ad7ade0f9d51e",
+            "problemDescription": "demanded 24h support due problem zero cycle phase",
+            "solution_id": "600b0313ff8ad7ade0f9d51d"
+        },
+        {
+            "problem_id": "600b0313ff8ad7ade0f9d520",
+            "problemDescription": "asked 24h support due problem zero cycle phase",
+            "solution_id": "600b0313ff8ad7ade0f9d51f"
+        },
+        {
+            "problem_id": "600b0314ff8ad7ade0f9d522",
+            "problemDescription": "requested 24h support because problem zero cycle phase",
+            "solution_id": "600b0313ff8ad7ade0f9d521"
+        },
+        {
+            "problem_id": "600b0314ff8ad7ade0f9d524",
+            "problemDescription": "requested 24h support attributable problem zero cycle phase",
+            "solution_id": "600b0314ff8ad7ade0f9d523"
+        },
+        {
+            "problem_id": "600b0314ff8ad7ade0f9d526",
+            "problemDescription": "requested 24h support due issue zero cycle phase",
+            "solution_id": "600b0314ff8ad7ade0f9d525"
+        },
+        {
+            "problem_id": "600b0314ff8ad7ade0f9d528",
+            "problemDescription": "requested 24h support due trouble zero cycle phase",
+            "solution_id": "600b0314ff8ad7ade0f9d527"
+        },
+        {
+            "problem_id": "600b0314ff8ad7ade0f9d52a",
+            "problemDescription": "requested 24h support due complication zero cycle phase",
+            "solution_id": "600b0314ff8ad7ade0f9d529"
+        },
+        {
+            "problem_id": "600b0314ff8ad7ade0f9d52c",
+            "problemDescription": "due password lost hmi",
+            "solution_id": "600b0314ff8ad7ade0f9d52b"
+        },
+        {
+            "problem_id": "600b0314ff8ad7ade0f9d52d",
+            "problemDescription": "because password lost hmi",
+            "solution_id": "600b0314ff8ad7ade0f9d52b"
+        },
+        {
+            "problem_id": "600b0315ff8ad7ade0f9d52e",
+            "problemDescription": "attributable password lost hmi",
+            "solution_id": "600b0314ff8ad7ade0f9d52b"
+        },
+        {
+            "problem_id": "600b0315ff8ad7ade0f9d530",
+            "problemDescription": "program lost gefanuc blackout necessary download program",
+            "solution_id": "600b0315ff8ad7ade0f9d52f"
+        },
+        {
+            "problem_id": "600b0315ff8ad7ade0f9d531",
+            "problemDescription": "software lost gefanuc blackout necessary download software",
+            "solution_id": "600b0315ff8ad7ade0f9d52f"
+        },
+        {
+            "problem_id": "600b0315ff8ad7ade0f9d532",
+            "problemDescription": "application software lost gefanuc blackout necessary download application software",
+            "solution_id": "600b0315ff8ad7ade0f9d52f"
+        },
+        {
+            "problem_id": "600b0315ff8ad7ade0f9d534",
+            "problemDescription": "receive call complaining problem rider roll calibration",
+            "solution_id": "600b0315ff8ad7ade0f9d533"
+        },
+        {
+            "problem_id": "600b0315ff8ad7ade0f9d535",
+            "problemDescription": "get call complaining problem rider roll calibration",
+            "solution_id": "600b0315ff8ad7ade0f9d533"
+        },
+        {
+            "problem_id": "600b0315ff8ad7ade0f9d536",
+            "problemDescription": "take in call complaining problem rider roll calibration",
+            "solution_id": "600b0315ff8ad7ade0f9d533"
+        },
+        {
+            "problem_id": "600b0316ff8ad7ade0f9d537",
+            "problemDescription": "receive call lamenting problem rider roll calibration",
+            "solution_id": "600b0315ff8ad7ade0f9d533"
+        },
+        {
+            "problem_id": "600b0316ff8ad7ade0f9d538",
+            "problemDescription": "receive call complaining issue rider roll calibration",
+            "solution_id": "600b0315ff8ad7ade0f9d533"
+        },
+        {
+            "problem_id": "600b0316ff8ad7ade0f9d539",
+            "problemDescription": "receive call complaining trouble rider roll calibration",
+            "solution_id": "600b0315ff8ad7ade0f9d533"
+        },
+        {
+            "problem_id": "600b0316ff8ad7ade0f9d53a",
+            "problemDescription": "receive call complaining complication rider roll calibration",
+            "solution_id": "600b0315ff8ad7ade0f9d533"
+        },
+        {
+            "problem_id": "600b0316ff8ad7ade0f9d53c",
+            "problemDescription": "requested due motor alarm log saw machine",
+            "solution_id": "600b0316ff8ad7ade0f9d53b"
+        },
+        {
+            "problem_id": "600b0316ff8ad7ade0f9d53d",
+            "problemDescription": "required due motor alarm log saw machine",
+            "solution_id": "600b0316ff8ad7ade0f9d53b"
+        },
+        {
+            "problem_id": "600b0316ff8ad7ade0f9d53e",
+            "problemDescription": "demanded due motor alarm log saw machine",
+            "solution_id": "600b0316ff8ad7ade0f9d53b"
+        },
+        {
+            "problem_id": "600b0317ff8ad7ade0f9d53f",
+            "problemDescription": "asked due motor alarm log saw machine",
+            "solution_id": "600b0316ff8ad7ade0f9d53b"
+        },
+        {
+            "problem_id": "600b0317ff8ad7ade0f9d540",
+            "problemDescription": "requested because motor alarm log saw machine",
+            "solution_id": "600b0316ff8ad7ade0f9d53b"
+        },
+        {
+            "problem_id": "600b0317ff8ad7ade0f9d541",
+            "problemDescription": "requested attributable motor alarm log saw machine",
+            "solution_id": "600b0316ff8ad7ade0f9d53b"
+        },
+        {
+            "problem_id": "600b0317ff8ad7ade0f9d542",
+            "problemDescription": "requested due engine alarm log saw machine",
+            "solution_id": "600b0316ff8ad7ade0f9d53b"
+        },
+        {
+            "problem_id": "600b0317ff8ad7ade0f9d543",
+            "problemDescription": "requested due motor notification log saw machine",
+            "solution_id": "600b0316ff8ad7ade0f9d53b"
+        },
+        {
+            "problem_id": "600b0317ff8ad7ade0f9d544",
+            "problemDescription": "requested due motor alert log saw machine",
+            "solution_id": "600b0316ff8ad7ade0f9d53b"
+        },
+        {
+            "problem_id": "600b0317ff8ad7ade0f9d545",
+            "problemDescription": "requested due motor alarm log blade machine",
+            "solution_id": "600b0316ff8ad7ade0f9d53b"
+        },
+        {
+            "problem_id": "600b0318ff8ad7ade0f9d547",
+            "problemDescription": "wants us connect confirm pusher drives broken",
+            "solution_id": "600b0317ff8ad7ade0f9d546"
+        },
+        {
+            "problem_id": "600b0318ff8ad7ade0f9d548",
+            "problemDescription": "wants us make a connection confirm pusher drives broken",
+            "solution_id": "600b0317ff8ad7ade0f9d546"
+        },
+        {
+            "problem_id": "600b0318ff8ad7ade0f9d54a",
+            "problemDescription": "wants us establish connection confirm pusher drives broken",
+            "solution_id": "600b0318ff8ad7ade0f9d549"
+        },
+        {
+            "problem_id": "600b0318ff8ad7ade0f9d54b",
+            "problemDescription": "requested due alarm former 1 core winder motor",
+            "solution_id": "600b0318ff8ad7ade0f9d549"
+        },
+        {
+            "problem_id": "600b0318ff8ad7ade0f9d54c",
+            "problemDescription": "required due alarm former 1 core winder motor",
+            "solution_id": "600b0318ff8ad7ade0f9d549"
+        },
+        {
+            "problem_id": "600b0318ff8ad7ade0f9d54d",
+            "problemDescription": "demanded due alarm former 1 core winder motor",
+            "solution_id": "600b0318ff8ad7ade0f9d549"
+        },
+        {
+            "problem_id": "600b0318ff8ad7ade0f9d54e",
+            "problemDescription": "asked due alarm former 1 core winder motor",
+            "solution_id": "600b0318ff8ad7ade0f9d549"
+        },
+        {
+            "problem_id": "600b0318ff8ad7ade0f9d54f",
+            "problemDescription": "requested because alarm former 1 core winder motor",
+            "solution_id": "600b0318ff8ad7ade0f9d549"
+        },
+        {
+            "problem_id": "600b0319ff8ad7ade0f9d550",
+            "problemDescription": "requested attributable alarm former 1 core winder motor",
+            "solution_id": "600b0318ff8ad7ade0f9d549"
+        },
+        {
+            "problem_id": "600b0319ff8ad7ade0f9d551",
+            "problemDescription": "requested due notification former 1 core winder motor",
+            "solution_id": "600b0318ff8ad7ade0f9d549"
+        },
+        {
+            "problem_id": "600b0319ff8ad7ade0f9d552",
+            "problemDescription": "requested due alert former 1 core winder motor",
+            "solution_id": "600b0318ff8ad7ade0f9d549"
+        },
+        {
+            "problem_id": "600b0319ff8ad7ade0f9d553",
+            "problemDescription": "requested due alarm former 1 core winder engine",
+            "solution_id": "600b0318ff8ad7ade0f9d549"
+        },
+        {
+            "problem_id": "600b0319ff8ad7ade0f9d555",
+            "problemDescription": "alarm magnetictermic switch tripped",
+            "solution_id": "600b0319ff8ad7ade0f9d554"
+        },
+        {
+            "problem_id": "600b0319ff8ad7ade0f9d556",
+            "problemDescription": "notification magnetictermic switch tripped",
+            "solution_id": "600b0319ff8ad7ade0f9d554"
+        },
+        {
+            "problem_id": "600b0319ff8ad7ade0f9d557",
+            "problemDescription": "alert magnetictermic switch tripped",
+            "solution_id": "600b0319ff8ad7ade0f9d554"
+        },
+        {
+            "problem_id": "600b031aff8ad7ade0f9d559",
+            "problemDescription": "receive call complaining problem downloading rolls accumulator log saw",
+            "solution_id": "600b031aff8ad7ade0f9d558"
+        },
+        {
+            "problem_id": "600b031aff8ad7ade0f9d55a",
+            "problemDescription": "get call complaining problem downloading rolls accumulator log saw",
+            "solution_id": "600b031aff8ad7ade0f9d558"
+        },
+        {
+            "problem_id": "600b031aff8ad7ade0f9d55b",
+            "problemDescription": "take in call complaining problem downloading rolls accumulator log saw",
+            "solution_id": "600b031aff8ad7ade0f9d558"
+        },
+        {
+            "problem_id": "600b031aff8ad7ade0f9d55c",
+            "problemDescription": "receive call lamenting problem downloading rolls accumulator log saw",
+            "solution_id": "600b031aff8ad7ade0f9d558"
+        },
+        {
+            "problem_id": "600b031aff8ad7ade0f9d55d",
+            "problemDescription": "receive call complaining issue downloading rolls accumulator log saw",
+            "solution_id": "600b031aff8ad7ade0f9d558"
+        },
+        {
+            "problem_id": "600b031aff8ad7ade0f9d55e",
+            "problemDescription": "receive call complaining trouble downloading rolls accumulator log saw",
+            "solution_id": "600b031aff8ad7ade0f9d558"
+        },
+        {
+            "problem_id": "600b031aff8ad7ade0f9d55f",
+            "problemDescription": "receive call complaining complication downloading rolls accumulator log saw",
+            "solution_id": "600b031aff8ad7ade0f9d558"
+        },
+        {
+            "problem_id": "600b031aff8ad7ade0f9d560",
+            "problemDescription": "receive call complaining problem downloading rolls accumulator log blade",
+            "solution_id": "600b031aff8ad7ade0f9d558"
+        },
+        {
+            "problem_id": "600b031bff8ad7ade0f9d562",
+            "problemDescription": "receive mail reload program line cpu",
+            "solution_id": "600b031bff8ad7ade0f9d561"
+        },
+        {
+            "problem_id": "600b031bff8ad7ade0f9d563",
+            "problemDescription": "get mail reload program line cpu",
+            "solution_id": "600b031bff8ad7ade0f9d561"
+        },
+        {
+            "problem_id": "600b031bff8ad7ade0f9d564",
+            "problemDescription": "take in mail reload program line cpu",
+            "solution_id": "600b031bff8ad7ade0f9d561"
+        },
+        {
+            "problem_id": "600b031bff8ad7ade0f9d565",
+            "problemDescription": "receive mail reload software line cpu",
+            "solution_id": "600b031bff8ad7ade0f9d561"
+        },
+        {
+            "problem_id": "600b031bff8ad7ade0f9d566",
+            "problemDescription": "receive mail reload application software line cpu",
+            "solution_id": "600b031bff8ad7ade0f9d561"
+        },
+        {
+            "problem_id": "600b031bff8ad7ade0f9d567",
+            "problemDescription": "receive mail reload program line processing unit",
+            "solution_id": "600b031bff8ad7ade0f9d561"
+        },
+        {
+            "problem_id": "600b031bff8ad7ade0f9d568",
+            "problemDescription": "receive mail reload program line central processing unit",
+            "solution_id": "600b031bff8ad7ade0f9d561"
+        },
+        {
+            "problem_id": "600b031cff8ad7ade0f9d569",
+            "problemDescription": "receive mail reload program line processor",
+            "solution_id": "600b031bff8ad7ade0f9d561"
+        },
+        {
+            "problem_id": "600b031cff8ad7ade0f9d56b",
+            "problemDescription": "requested h24 service due log saw issue",
+            "solution_id": "600b031cff8ad7ade0f9d56a"
+        },
+        {
+            "problem_id": "600b031cff8ad7ade0f9d56c",
+            "problemDescription": "required h24 service due log saw issue",
+            "solution_id": "600b031cff8ad7ade0f9d56a"
+        },
+        {
+            "problem_id": "600b031cff8ad7ade0f9d56d",
+            "problemDescription": "demanded h24 service due log saw issue",
+            "solution_id": "600b031cff8ad7ade0f9d56a"
+        },
+        {
+            "problem_id": "600b031cff8ad7ade0f9d56e",
+            "problemDescription": "asked h24 service due log saw issue",
+            "solution_id": "600b031cff8ad7ade0f9d56a"
+        },
+        {
+            "problem_id": "600b031cff8ad7ade0f9d56f",
+            "problemDescription": "requested h24 service because log saw issue",
+            "solution_id": "600b031cff8ad7ade0f9d56a"
+        },
+        {
+            "problem_id": "600b031cff8ad7ade0f9d570",
+            "problemDescription": "requested h24 service attributable log saw issue",
+            "solution_id": "600b031cff8ad7ade0f9d56a"
+        },
+        {
+            "problem_id": "600b031dff8ad7ade0f9d571",
+            "problemDescription": "requested h24 service due log blade issue",
+            "solution_id": "600b031cff8ad7ade0f9d56a"
+        },
+        {
+            "problem_id": "600ede08b45da844070b0f1e",
+            "problemDescription": "problem frox",
+            "solution_id": "600c3592603f5314ecf21775"
+        },
+        {
+            "problem_id": "600ede1cb45da844070b0f29",
+            "problemDescription": "problem frox",
+            "solution_id": "600b0302ff8ad7ade0f9d48e"
         }
     ]
 }

@@ -2,5 +2,9 @@
   "trainingPercent": 70,
   "testPercent": 20,
   "validationPercent": 10,
-  "segregationPeriod": 30
+  "segregationPeriod": 30,
+  "output_json_directory": "./segregation_system/json/",
+  "json_schemas_directory": "./segregation_system/json/schemas/",
+  "output_csv_directory": "./segregation_system/csv/",
+  "input_directory": "./solved_problems_repo/json/"
 }

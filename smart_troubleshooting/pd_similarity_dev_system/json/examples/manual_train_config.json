@@ -1,0 +1,36 @@
+{
+  "pd_embeddings_path": "./pd_preparation_system/csv/FeatureVectorOutputFile.csv",
+  "training_set_path": "./segregation_system/csv/trainingSet.csv",
+  "validation_set_path": "./segregation_system/csv/validationSet.csv",
+  "output_model_path": "./pd_similarity_dev_system/models/output_model.joblib",
+  "hyper_params": {
+        "activation": "relu",
+        "hidden_layer_sizes": [
+            50,
+            10
+        ]
+    },
+    "training_params": {
+        "alpha": 0.0001,
+        "batch_size": "auto",
+        "beta_1": 0.9,
+        "beta_2": 0.999,
+        "early_stopping": false,
+        "epsilon": 1e-08,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.01,
+        "max_fun": 15000,
+        "max_iter": 750,
+        "momentum": 0.9,
+        "n_iter_no_change": 10,
+        "nesterovs_momentum": true,
+        "power_t": 0.5,
+        "random_state": null,
+        "shuffle": true,
+        "solver": "adam",
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": false,
+        "warm_start": false
+    }
+}

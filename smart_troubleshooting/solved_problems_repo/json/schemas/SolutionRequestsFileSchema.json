@@ -10,11 +10,11 @@
             "type": "number",
             "minimum": 1
           },
-          "problemDescription": {
+          "problemID": {
             "type": "string"
           }
         },
-        "required": ["requestID", "problemDescription"]
+        "required": ["requestID", "problemID"]
       },
       "minItems": 0,
       "uniqueItems": true

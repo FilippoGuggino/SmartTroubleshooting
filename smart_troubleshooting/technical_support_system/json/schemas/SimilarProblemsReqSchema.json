@@ -1,0 +1,23 @@
+{
+  "type": "object",
+  "properties": {
+    "requests": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "requestID": {
+            "type": "number"
+          },
+          "problemDescription": {
+            "type": "string"
+          }
+        },
+        "required": ["requestID", "problemDescription"]
+      },
+      "minItems": 0,
+      "uniqueItems": true
+    }
+  },
+  "required": ["requests"]
+}

@@ -6,6 +6,9 @@
       "items": {
         "type": "object",
         "properties": {
+          "problem_id": {
+            "type": "string"
+          },
           "solution_id": {
             "type": "string"
           },
@@ -13,7 +16,7 @@
             "type": "string"
           }
         },
-        "required": ["solution_id", "problemDescription"]
+        "required": ["id", "solution_id", "problemDescription"]
       },
       "minItems": 0,
       "uniqueItems": true

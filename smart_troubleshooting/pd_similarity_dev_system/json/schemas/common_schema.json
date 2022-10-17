@@ -1,0 +1,229 @@
+{
+  "$id": "common_schema.json",
+  "definitions": {
+    "param_range": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "min": {
+              "type": "number"
+            },
+            "max": {
+              "type": "number"
+            },
+            "step": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "min",
+            "max",
+            "step"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "properties": {
+            "min": {
+              "type": "number"
+            },
+            "max": {
+              "type": "number"
+            },
+            "n": {
+              "type": "integer"
+            },
+            "scale": {
+              "type": "string",
+              "enum": ["lin", "log"]
+            },
+            "type": {
+              "type": "string",
+              "enum": ["int", "float"]
+            }
+          },
+          "required": [
+            "min",
+            "max",
+            "n"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "properties": {
+            "values": {
+              "type": "array"
+            },
+            "required": [
+              "values"
+            ],
+            "additionalProperties": false
+          }
+        }
+      ]
+    },
+    "param_ranges": {
+      "type": "object",
+      "patternProperties": {
+        "^.*$": {
+          "$ref": "#/definitions/param_range"
+        }
+      }
+    },
+    "mlpregressor_params": {
+      "type": "object",
+      "properties": {
+        "hidden_layer_sizes": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          }
+        },
+        "activation": {
+          "type": "string",
+          "enum": [
+            "identity",
+            "logistic",
+            "tanh",
+            "relu"
+          ]
+        }
+      },
+      "additionalProperties": false
+    },
+    "training_parameters": {
+      "type": "object",
+      "properties": {
+        "solver": {
+          "type": "string",
+          "enum": [
+            "lbfgs",
+            "sgd",
+            "adam"
+          ]
+        },
+        "alpha": {
+          "type": "number"
+        },
+        "batch_size": {
+          "oneOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "string",
+              "enum": [
+                "auto"
+              ]
+            }
+          ]
+        },
+        "learning_rate": {
+          "type": "string",
+          "enum": [
+            "constant",
+            "invscaling",
+            "adaptive"
+          ]
+        },
+        "learning_rate_init": {
+          "type": "number"
+        },
+        "power_t": {
+          "type": "number"
+        },
+        "max_iter": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "shuffle": {
+          "type": "boolean"
+        },
+        "random_state": {
+          "type": "integer"
+        },
+        "tol": {
+          "type": "number",
+          "minimum": 0
+        },
+        "momentum": {
+          "type": "number"
+        },
+        "nesterovs_momentum": {
+          "type": "boolean"
+        },
+        "early_stopping": {
+          "type": "boolean"
+        },
+        "validation_fraction": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "beta_1": {
+          "type": "number"
+        },
+        "beta_2": {
+          "type": "number"
+        },
+        "epsilon": {
+          "type": "number"
+        },
+        "n_iter_no_change": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "max_fun": {
+          "type": "integer",
+          "minimum": 1
+        }
+      },
+      "additionalProperties": false
+    },
+    "generic_config": {
+      "type": "object",
+      "properties": {
+        "pd_embeddings_path": {
+          "type": "string",
+          "format": "uri-reference"
+        }
+      },
+      "required": [
+        "pd_embeddings_path"
+      ]
+    },
+    "generic_training_config": {
+      "allOf": [
+        {
+          "$ref": "#/definitions/generic_config"
+        },
+        {
+          "type": "object",
+          "properties": {
+            "training_set_path": {
+              "type": "string",
+              "format": "uri-reference"
+            },
+            "validation_set_path": {
+              "type": "string",
+              "format": "uri-reference"
+            },
+            "output_model_path": {
+              "type": "string",
+              "format": "uri-reference"
+            }
+          },
+          "required": [
+            "training_set_path",
+            "validation_set_path",
+            "output_model_path"
+          ]
+        }
+      ]
+    }
+  }
+}
